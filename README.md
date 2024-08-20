@@ -1,5 +1,5 @@
 # Mcqueen-Game
-Jogo do Relâmpago Mcqueen 🚗⚡ estilo pac man, criado utilizando python e a biblioteca pygame.
+Jogo do Relâmpago Mcqueen 🚗⚡ estilo Pac-Man, criado utilizando python e a biblioteca pygame.
 
 <img align="center" alt="Phyton" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
