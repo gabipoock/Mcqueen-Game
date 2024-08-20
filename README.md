@@ -5,7 +5,7 @@ Jogo do Relâmpago Mcqueen 🚗⚡ estilo Pac-Man, criado utilizando python e a 
 
 <img src="tela_jogo.png" alt="Tela do jogo" width="300px" hight="300px">
 
-> Pac-Man é um clássico jogo de arcade onde o jogador controla o personagem, que se move por um labirinto com o objetivo de comer todos os pontos, enquanto evita ser capturado por quatro inimigos coloridos. À medida que o jogador avança pelos níveis, o labirinto se torna mais desafiador, acontecendo o crescimento do mapa. 
+> Pac-Man é um clássico jogo de arcade onde o jogador controla o personagem, que se move por um labirinto com o objetivo de comer todos os pontos, enquanto evita ser capturado por quatro inimigos coloridos. À medida que o jogador avança pelos níveis, o labirinto se torna mais desafiador, consequentemente crescendo o mapa. 
 
 ## 💻 Modificações e personalização
 
