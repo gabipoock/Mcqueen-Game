@@ -14,4 +14,4 @@ Neste jogo fizemos adaptações para um jogo de pac-man personalizado. Foram fei
 
 ## ⚡ Como funciona o jogo McQueen Game
 
-O jogo conta com as mesmas regras do pac-man comum, porém com uma personalização diferenciada e divertida. Para fâs do desenho e do jogo, nada melhor do que juntasr dois em um em um jogo nostálgico e cheio de desafios. 
+O jogo conta com as mesmas regras do Pac-Man comum, porém com uma personalização diferenciada e divertida. Para fãs do desenho e do jogo, nada melhor do que juntar 2 em 1 em um jogo nostálgico e cheio de desafios. 
